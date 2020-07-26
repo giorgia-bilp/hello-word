@@ -1,2 +1,4 @@
 # hello-word
-Just another repository 
+idk
+
+i don't like humans!
